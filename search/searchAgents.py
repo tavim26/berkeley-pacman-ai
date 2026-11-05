@@ -45,10 +45,6 @@ class GoWestAgent(Agent):
         else:
             return Directions.STOP
 
-#######################################################
-# This portion is written for you, but will only work #
-#       after you fill in parts of search.py          #
-#######################################################
 
 
 class SearchAgent(Agent):
