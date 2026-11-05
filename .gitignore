@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+.idea/
+.vscode/
+*.test_output
+gradescope_response.json
+edx_response.html
+edx_grade
+frames/
+recorded-game-*
